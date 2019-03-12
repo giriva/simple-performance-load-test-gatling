@@ -33,7 +33,7 @@ To Run all test, use the below command:
 
 To run individual test, execute the following command:
 
-    $mvn gatling:test -Dgatling.simulationClass=housingdevelopment.ListAllEstates
+    $mvn gatling:test -Dgatling.simulationClass=<PackageName>.<ClassName>
 
 
 At the end you will see link to HTML report. Open it in browser

@@ -7,7 +7,7 @@ Simple test has been made using only Get request to demostrate the idea of Gatli
 
 It does following things
 
-* Performance Test on simple applicaiton using Scala simulation file
+* Performance Test on simple application using Scala simulation file
 * Generate report in HTML
 
 
